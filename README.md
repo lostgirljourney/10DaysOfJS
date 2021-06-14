@@ -1,6 +1,6 @@
 <h1 align="center">10 Days of JavaScript</h1>
 
-<p>Learning and improving your Javascript fundamentals.</p>
+<p>Learning and improving my Javascript fundamentals.</p>
 
 Website: [Hackerrank - 10 Days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
